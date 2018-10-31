@@ -22,6 +22,11 @@
   Github: [Ashish Gautam](https://github.com/gautam2705)  
   Facebook: [Ashish Gautam](https://www.facebook.com/gautam2705)  
 
+- Name:  Ajay Kumar 
+  Place: Patiala,India  
+  Bio:  College Freshman and new to the coding world. 
+  GitHub: [Ajay2000](https://github.com/Ajay2000)
+
 - Name:  Himanshi-Khandelwal  
   Place: Jaipur,India  
   Bio:  Pythonista , Chocoholic ,  Foodie , Web Developer. I turn food into code.  
